@@ -1,0 +1,1 @@
+var e=`/assets/material-aYhp_hlt.jpg`;export{e as t};

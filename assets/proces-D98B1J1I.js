@@ -1,0 +1,1 @@
+var e=`/assets/proces-DEV8Lw84.jpg`;export{e as t};

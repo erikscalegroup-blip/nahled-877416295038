@@ -1,0 +1,1 @@
+var e=`/assets/luc-o5VvHJPA.jpg`;export{e as t};
